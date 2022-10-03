@@ -1,0 +1,516 @@
+/*fixes and additions for gloabl mini*/
+
+ul#tool-bar li.social.email {
+	text-transform: none;
+}
+
+.container.logo {
+	padding-left: 0;
+}
+
+.header#global-mini-home{
+	min-height: 391px;
+	background: url('../images/global-mini/global-mini-home-hd.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: over;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 45px 0 30px 150px;
+  margin: 0 auto;
+}
+
+#connect-with-us .container.box {
+  padding: 30px 0 40px;
+  margin-bottom: 50px;
+}
+
+#connect-with-us ul {
+  list-style-type: none;
+  display: inline;
+}
+
+#connect-with-us ul li {
+  float: left;
+  margin-left: 10px;
+}
+
+.sub-footer, .sub-footer a, .sub-footer p {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-top: 0 !important;
+    border-top: 0 !important;
+    padding-top: 22px;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.footer-title {
+  font-weight: bold;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.sub-footer .address {
+  line-height: 20px;
+
+}
+
+.sub-footer p {
+  margin-top: 5px !important;
+  margin-left: -15px;
+}
+
+.sub-footer p.privacy-map a, .sub-footer p.privacy-map {
+/*  padding-right: 0;*/
+  padding-left: 0px !important;
+  padding-top: 5px !important;
+  margin-top: 0 !important;
+  font-size: 12px;
+/*  text-decoration: underline;*/
+}
+
+.sub-footer .email {
+  margin-left: -15px;
+}
+
+
+.copyright {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+}
+
+h1.larger {
+  font-size: 80px;
+  line-height: 80px;
+}
+
+#how-home h1.green {
+ padding: 0;
+}
+/***************************************************
+About Us
+***************************************************/
+#about-us{
+  min-height: 391px;
+  background: url('../images/about-img/au-leadership-development-company-hero-bg.jpg') no-repeat center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 100px 0 0 0;
+  margin: 0 auto;
+}
+
+section.aboutus-section1{
+  background-color: #fff;
+  padding: 0 0 50px;
+  text-align: center;
+}
+
+section.aboutus-section1 p{
+  margin-bottom: 30px;
+}
+
+section.aboutus-section2{
+  background-color: #e5eff6;
+  padding: 50px 0 0;
+}
+
+section.aboutus-section2.nopadding .left {
+    background: url(../images/about-img/au-proven-results-leadership-training-company.jpg) no-repeat top center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+    margin: 0 auto;
+    min-height: 737px;
+}
+
+section.aboutus-section2.nopadding .right {
+    max-width: 600px;
+}
+
+.list-big-icon h6{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size:15px;
+}
+
+.list-big-icon li{
+  color:#333f48;
+  font-size:15px;
+  list-style-type: none;
+  position: relative;
+  padding-left: 90px;
+  margin-bottom: 40px;
+}
+
+.list-big-icon li:before{
+  content:"";
+  position: absolute;
+  left:0;
+  top:-15px;
+}
+
+
+.list-big-icon li.certificate:before{
+  width: 56px;
+  height: 73px;
+  background-image: url(../images/icon-certificate.png);
+}
+
+.list-big-icon li.chart:before{
+  width: 66px;
+  height: 63px;
+  background-image: url(../images/icon-chart.png);
+}
+
+.list-big-icon li.people:before{
+  width: 65px;
+  height: 62px;
+  background-image: url(../images/icon-people.png);
+}
+
+.list-big-icon li.book:before{
+  width: 64px;
+  height: 41px;
+  background-image: url(../images/icon-book.png);
+}
+
+section.aboutus-section2.nopadding .right .text-left {
+    padding-left: 130px;
+}
+
+.aboutus-section3{
+  text-align: center;
+  padding:50px 0 70px;
+}
+
+.aboutus-section3 .icons{
+  margin-top: 50px;
+}
+
+.aboutus-section3 .icon {
+    min-height: 110px;
+}
+
+.aboutus-section3 .icon img{
+  max-width: 100%!important;
+  height:auto;
+  margin:0 auto 10px;
+}
+
+.logo-slider .slick-prev, {
+  left:-30px;
+  width:30px;
+  height:40px;
+}
+
+.logo-slider .slick-next{
+  right:-30px;
+  width:30px;
+  height:40px;
+}
+
+.logo-slider .slick-prev::before, .timeline-nav .slick-prev::before{
+  font: normal normal normal 40px/1 FontAwesome;
+  content: "\f053";
+  color:#e5eff6;
+  opacity:1;
+}
+
+.logo-slider .slick-next::before, .timeline-nav .slick-next::before {
+  font: normal normal normal 40px/1 FontAwesome;
+  content: "\f054";
+  color:#e5eff6;
+  opacity:1;
+}
+
+section.aboutus-section4{
+  background-color: #e5eff6;
+}
+
+section.aboutus-section4.nopadding .left {
+    background: url(../images/about-img/au-blanchard-leadership-development-company-history-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+    margin: 0 auto;
+    min-height: 456px;
+}
+
+section.aboutus-section4.nopadding .right {
+    max-width: 600px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+section.aboutus-section4.nopadding .right p{
+  margin: 40px 0;
+}
+
+section.aboutus-section5{
+  padding: 50px 0;
+}
+
+section.aboutus-section5 .list-big-icon{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+section.aboutus-section5 .list-big-icon li{
+  display: inline-block;
+  width: 46%;
+  margin:0 1.5% 40px;
+  vertical-align: top;
+}
+
+.list-big-icon li.hand:before{
+  width: 63px;
+  height: 56px;
+  background-image: url(../images/about-img/icon-hand.png);
+}
+
+.list-big-icon li.target:before{
+  width: 67px;
+  height: 66px;
+  background-image: url(../images/about-img/icon-target.png);
+}
+
+.list-big-icon li.kenship:before{
+  width: 68px;
+  height: 68px;
+  background-image: url(../images/about-img/icon-kenship.png);
+}
+
+.list-big-icon li.d4:before{
+  width: 80px;
+  height: 30px;
+  background-image: url(../images/about-img/icon-d4.png);
+  top: 10px;
+  left:-5px;
+}
+
+.list-big-icon li.dialogue:before{
+  width: 71px;
+  height: 46px;
+  background-image: url(../images/about-img/icon-dialogue.png);
+}
+
+.list-big-icon li.ownership:before{
+  width: 48px;
+  height: 48px;
+  background-image: url(../images/icon-ownership.png);
+}
+
+section.aboutus-section6{
+  padding: 0;
+    background-color: #e5eff6;
+}
+
+
+section.aboutus-section6.nopadding .right {
+    background: url(../images/about-img/au-leadership-development-company-team.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0 auto;
+    min-height: 456px;
+    float:right;
+}
+
+section.aboutus-section6.nopadding .left {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    max-width: 600px;
+    float:right;
+}
+
+section.aboutus-section6.nopadding .left p{
+  margin: 40px 0;
+}
+
+section.aboutus-section7{
+  padding:80px 0 120px;
+  text-align: center;
+  background: url(../images/about-img/au-management-training-company-locations-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+}
+
+section.aboutus-section7 p{
+  padding:30px 0;
+}
+
+.medium-container{
+  max-width:900px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+section.bluebg.top-50 {
+  padding-top: 50px !important;
+}
+
+.blue-bg-title {
+  background-color: #6699cc;
+  color: #fff;
+  padding: 15px 0;
+  max-width: 332px;
+  font-family: arial;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.aus-photo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/*get started*/
+#get-started {
+    min-height: 391px;
+    background: url(../images/get-started/gs-get-started-leadership-development-management-training-contact-form.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 120px 0 0 0;
+    margin: 0 auto;
+}
+
+/*adjustments for photo boxes*/ 
+.photo-boxes .col-md-4 {
+      background-color: #333f48;
+      margin-top: 50px;
+      padding-left: 0;
+      padding-right: 0;
+      margin-left : auto;
+      margin-right: auto;
+      max-width: 324px;
+      }
+      @media (max-width: 1200px) {
+        .photo-boxes .col-md-4 {
+        margin-left : 15px;
+        margin-right: 15px;
+        }
+
+        .row.green.home {
+        background-color: transparent;
+        border-top: 0;
+        }
+      }
+       @media (max-width: 990px) {
+
+        .photo-boxes .col-md-4 {
+        margin-left : 15px;
+        margin-right: 15px;
+        }
+
+        .photo-box .photo {
+        width: auto;
+        height: auto;
+        float: none;
+        }
+        .photo-box .photo img {
+        width: auto;
+        height: auto;
+      }
+        .photo-boxes {
+        background-color: transparent; 
+      }
+
+      .photo-box .text-box {
+        margin-left: 0;
+      }
+
+      .photo-box .text-box .text {
+      padding: 14px 12px;
+      } 
+      .photo-box p {
+      margin-top: 20px;
+      }
+
+      .bossvcoach.products {
+        padding-bottom: 50px;
+      }
+  
+       }
+       @media (max-width: 768px) {
+
+        .photo-boxes .col-md-4 {
+        width: 100% !important;
+        max-width: 100% !important;
+      
+        }
+       .photo-boxes {
+        margin-left: -15px !important;
+        margin-right: 15px !important;
+      }
+      @media only screen and (max-width:992px){
+  section.aboutus-section5 .list-big-icon li{
+    width:100%!important;
+    margin:0 0 20px;
+  }
+
+  .medium-container,
+  .small-container,
+  section.partners-section3.nopadding .right,
+  section.article-content.nopadding .right,
+  section.aboutus-section2.nopadding .right,
+  section.aboutus-section4.nopadding .right,
+  section.aboutus-section6.nopadding .left{
+    max-width: 95%;
+    margin:0 auto;
+  }
+
+  .col-md-6.left img {
+    margin: 30px auto 30px auto;
+  }
+  .col-md-6.right.learn-more ul {
+    -webkit-padding-start: 0px !important;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .navbar-nav>li:last-child {
+    margin-top: 20px !important;
+}
+   
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+.navbar-nav>li, navbar-nav>li.dropdown {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+}
+
+/*phone landscape only*/
+@media (max-width: 667px) and (min-width: 376px) {
+
+.productsboxes > [class*=" col-"] {
+  height: 515px;
+}
+.row.productsboxes.second-row .col-lg-6 {
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+    width: 95% !important;
+}
+}
+
+.help-block, .help-block ul {
+  margin-bottom: 0;
+}
+

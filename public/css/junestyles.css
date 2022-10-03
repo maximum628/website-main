@@ -1,0 +1,1365 @@
+.medium-small-container{
+	max-width:700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.product.header h1.green.two-line {
+	padding: 0 !important;
+}
+
+/*generic pages*/
+#generic-two-line {
+    min-height: 391px;
+    background: url(../images/generic/generic-two-line-header.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 120px 0 0 0;
+    margin: 0 auto;
+}
+
+/*note this is a fixed size background, it is not flexible horiztonally*/
+.generic-box {
+	background: url(../images/generic/box-background.png) no-repeat center top;
+	margin: 60px 0 100px;
+}
+
+.generic-box .container {
+	text-align: left;
+	width: 814px;
+	padding: 0 50px 20px 50px;
+	border-left: 1px solid #333f48;
+	border-right: 1px solid #333f48;
+	border-bottom: 1px solid #333f48;
+}
+
+.generic-box .container h4 {
+	text-align: center;
+	margin-top: -5px;
+	margin-bottom: 50px;
+}
+
+.generic-box .container .row {
+	margin-bottom: 30px;
+}
+
+/*privacy*/
+.bluebg.nopadding.privacy {
+	padding-bottom: 10px;
+}
+
+.privacy-section1 {
+	margin: 50px 0 200px;
+}
+.privacy-section1 p {
+	line-height: 30px;
+	margin-top: 30px;
+}
+
+.privacy-section1 ol {
+	line-height: 30px;
+	margin: 40px 0 0;
+	padding: 0 0 0 1em;
+}
+
+.privacy-section1 ol li {
+	font-size: 22px;
+	color: #7bafd4;
+	margin-left: 0;
+	font-family: "Montserrat";
+	font-weight: 200;
+}
+
+.privacy-section1 ol ol {
+	padding: 0 0 0 1em;
+	margin: 16px 0 0 0;
+}
+
+.privacy-section1 ol ol li {
+	color: #333f48;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   font-size: 15px;
+}
+
+.privacy-section1 ol ol ol li {
+	font-weight: bold;
+}
+
+.privacy-section1 ol ol ol li p {
+	font-weight: normal;
+	margin-top: 0;
+}
+
+.privacy-section1 ol ol ol ul {
+	list-style-type: disc;
+}
+
+.privacy-section1 ol ol ol ul li .normal {
+	font-weight: normal;
+}
+
+/*contact us*/
+#contact-us {
+    min-height: 391px;
+    background: url(../images/contact-us/cu-leadership-development-consultation.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 120px 0 0 0 !important;
+    margin: 0 auto;
+}
+
+.icons h4 {
+	line-height: 26px;
+}
+
+section .icon {
+	margin-bottom: 15px;
+}
+
+section .icon img {
+	text-align: center;
+	margin: 0  auto;
+}
+
+section .icons p {
+	width: 90%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+section.bluebg.contact {
+	padding: 50px 0 !important;
+
+}
+.contact-locations, .contact-submit {
+	width: 200px;
+}
+
+/*get started*/
+#get-started {
+    min-height: 391px;
+    background: url(../images/get-started/gs-get-started-leadership-development-management-training-contact-form.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 120px 0 0 0;
+    margin: 0 auto;
+}
+
+/*about us team*/
+
+section.about-us-team {
+	padding: 50px 0;
+}
+
+section.about-us-team .row .col-sm-3 {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+
+section.about-us-team ul.social {
+	list-style: none;
+	text-align: center;
+	margin: 15px 0;
+	padding: 0;
+	width: 100%;
+}
+
+section.about-us-team ul.social:after {
+	clear: all;
+}
+
+section.about-us-team ul.social li {
+	display: inline-block;
+	padding: 0 7px;
+}
+
+section.about-us-team .padding-15 {
+	padding-top: 15px;
+}
+
+section.about-us-team .download {
+	margin-right: 5px;
+}
+
+section.about-us-team .blue-thin {
+	margin-bottom: 3px;
+}
+
+section.about-us-team .blue-thin.small {
+	font-size: 18px !important;
+}
+
+.btn-less-padding {
+	padding: 13px 12px !important;
+}
+
+.no-left {
+	padding-left: 0;
+}
+section.about-us-team p {
+	line-height: 30px;
+}
+
+.expertise-box {
+	background: url(../images/about-us-team/box-line-top-areas.png) no-repeat center top;
+	margin: 60px 0 100px;
+}
+
+.expertise-box .container {
+	text-align: left;
+	width: 750px;
+	padding: 0 100px;
+	border-left: 1px solid #333f48;
+	border-right: 1px solid #333f48;
+	border-bottom: 1px solid #333f48;
+}
+
+.expertise-box .container h4 {
+	font-size: 15px;
+	text-align: center;
+	margin-top: -5px;
+	margin-bottom: 30px;
+}
+
+.expertise-box .container .row {
+	margin-bottom: 30px;
+}
+
+.expertise-box ul {
+	margin: 0 0 30px;
+	padding-left: 1em;
+	line-height: 30px;
+}
+
+.books-box {
+	background: url(../images/about-us-team/box-line-top-books.png) no-repeat center top;
+	margin: 60px 0 100px;
+}
+
+.books-box .container {
+	text-align: left;
+	width: 750px;
+	padding: 0 100px;
+	border-left: 1px solid #333f48;
+	border-right: 1px solid #333f48;
+	border-bottom: 1px solid #333f48;
+}
+
+.books-box .container h4 {
+	font-size: 15px;
+	text-align: center;
+	margin-top: -5px;
+	margin-bottom: 30px;
+}
+
+.books-box .container .row {
+	margin-bottom: 30px;
+}
+
+.books-box ul {
+	margin: 0;
+	padding-left: 1em;
+	line-height: 30px;
+}
+
+/*about us news all*/
+
+.box.articles {
+	margin-top: 25px;
+	padding: 22px 48px 22px 34px;
+	min-height: 200px;
+}
+
+.box.articles .source {
+	font-size: 18px;
+	text-decoration: underline;
+}
+
+.box.articles .title {
+	margin-bottom: 0 !important;
+}
+
+.box.articles p {
+	margin-top: 10px;
+}
+
+a.read-more {
+	font-size: 12px;
+	color: #99cc00;
+	text-decoration: underline;
+}
+
+.box.articles.individual p {
+	margin-top: 30px;
+}
+
+.box.articles.individual a {
+	color: #333333;
+	text-decoration: underline;
+}
+
+/*about us team leaders*/ 
+#team-leaders {
+    min-height: 391px;
+    background: url(../images/about-us-team-leaders/ken-blanchard-leadership-development-company.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 140px 0 0 0;
+    margin: 0 auto;
+}
+
+.row.photos-leaders [class*="col-"] {
+	margin-top: 30px;
+}
+
+.photos-leaders .arial16bold {
+	margin-top: 15px;
+	font-family: arial;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 0;
+	line-height: 16px;
+}
+
+.photos-leaders .arial16 {
+	line-height: 19px;
+}
+
+.photos-leaders .text-center img, .photos-experts .text-center img {
+	margin: 0 auto;
+}
+
+.row.filter .filter-type{
+	padding-top: 5px;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.row.filter .form-group select {
+    height: 42px;
+    border-radius: 0;
+    font-weight: normal;
+}
+
+.photos-experts [class*="col-"] {
+	margin-top: 35px;
+}
+
+.photos-experts .arial12bold {
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 14px;
+}
+
+.photos-experts [class*="col-"] {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+/*global partner australia*/
+#australia {
+    min-height: 391px;
+    background: url(../images/global-partner-australia/blanchard-australia-partner-bg.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 140px 0 0 0;
+    margin: 0 auto;
+}
+
+section.aboutus-section1.australia {
+	padding-bottom: 0px !important;
+}
+
+.australia-box {
+	background: url(../images/global-partner-australia/contact-line-top.png) no-repeat center top;
+	margin: 60px 0 100px;
+}
+
+.australia-box .container {
+	text-align: left;
+	width: 847px;
+	padding: 0 50px 0px 50px;
+	border-left: 1px solid #333f48;
+	border-right: 1px solid #333f48;
+	border-bottom: 1px solid #333f48;
+}
+
+.australia-box .container h3 {
+	text-align: center;
+	margin-top: -20px;
+	margin-bottom: 50px;
+}
+
+.australia-box .container .row [class*="col-"] {
+	margin-bottom: 30px;
+}
+.australia-box .container [class*="col-"].icon {
+	padding-right: 0;
+}
+.australia-box .container [class*="col-"].text{
+	padding-left: 10px;
+}
+
+section.australia-video {
+padding: 50px 0 75px;
+	background: url('../images/global-partner-australia/blanchard-australia-partner-video-bg.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.australiawatch {
+	padding: 120px 0;
+	background: url('../images/global-partner-australia/blanchard-australia-video-bg.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.australia-events {
+	  margin-left: 25px;
+    border: 1px solid #333f48;
+    padding: 10px 40px;
+    width: 47%;
+}
+
+section.bluebg.top-50 {
+	padding-top: 50px !important;
+}
+
+.blue-bg-title {
+	background-color: #6699cc;
+	color: #fff;
+	padding: 15px 0;
+	max-width: 332px;
+	font-family: arial;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.aus-photo {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+/*Management team*/
+.row.management {
+	margin-top: 50px;
+}
+
+.management-image {
+	max-width: 234px;
+}
+
+.management .name, .management .title {
+	color: #7bafd4;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.management .name {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+/*Store*/
+
+.events-dates-locations.store {
+	padding-top: 0;
+}
+.events-dates-locations.store .image-column img {
+	margin: 0 auto 20px;
+}
+
+.events-dates-locations.store .right-line {
+	font-size: 15px;
+	text-transform: uppercase;
+}
+
+.events-dates-locations.store .right-line p {
+	text-transform: none !important;
+}
+
+.events-dates-locations.store .details-info a {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.events-dates-locations.store .row.table {
+	padding-right: 0;
+}
+.events-dates-locations.store .details-info {
+    margin-top: 20px !important;
+}
+
+.buy[class*="col-"] {
+	padding-right: 0px;
+	text-align: center;
+}
+
+
+.buy-now {
+	width: 122px;
+}
+
+.italics {
+	font-size: 12px;
+	font-style: italic;
+}
+.amazon {
+	margin-top: 60px;
+}
+
+.ken-left, .right-green {
+	padding: -15px;
+	margin: 0;
+}
+
+.ken-left {
+	background: url('../images/store/ken-photo.jpg') no-repeat center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 313px;
+}
+
+.right-green {
+	background-color: #333f48;
+	font-size: 26px;
+	color: #fff;
+	padding: 86px 50px !important;
+	line-height: 37px;
+}
+
+.right-green a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.ken-books {
+	padding-bottom: 100px
+}
+
+.ken-books .container {
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+/*Store Detail*/
+
+.book-detail-left {
+	padding: 0 50px;
+}
+
+.book-detail-quote {
+	font-size: 18px;
+	font-style: italic;
+	margin-top: 30px;
+}
+
+.book-detail-quote .normal {
+	font-style: normal;
+}
+
+.book-detail-citation {
+	font-size: 12px;
+	font-style: italic;
+	margin-top: 12px;
+	line-height: 18px;
+	margin-bottom: 20px;
+}
+
+.amazon-button .book-detail-citation {
+	margin-bottom: 0px;
+}
+
+.book-detail-right h3 {
+	margin: 0;
+}
+
+.strike {
+ text-decoration: line-through;
+}
+
+.underline {
+	text-decoration: underline;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+
+.book-detail-right .btn-lg {
+	padding-left: 38px;
+	padding-right: 38px;
+}
+
+.book-detail-right .amazon-button {
+	border: 1px solid #000;
+	padding: 20px;
+	margin-left: 20px;
+}
+
+section.also-like {
+	margin-bottom: 100px;
+}
+
+/*careers*/
+
+#about-careers {
+    min-height: 391px;
+    background: url(../images/careers/ac-ken-blanchard-careers-bg.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 120px 0 0 0;
+    margin: 0 auto;
+}
+
+.careers-section-1 {
+	background: url(../images/careers/section-1-bg.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 50px 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.careers-section-1 .box {
+	padding: 25px 40px;
+
+}
+
+.careers-section-1 .box ul {
+	margin-top: 20px;
+	text-align: left;
+	font-family: "Montserrat";
+}
+
+.careers-section-1 .video {
+	background: url(../images/careers/ac-ken-blanchard-jobs-bg.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 83px 32px;
+  margin: 0 auto 0 50px;
+  text-align: center;
+  color: #fff;
+  font-size: 26px;
+  line-height: 38px;
+}
+
+section.perks {
+	padding-bottom: 50px;
+}
+
+.perks-left {
+	background: url(../images/careers/ac-ken-blanchard-careers-and-jobs.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 412px;
+}
+
+.perks-right {
+	padding-left: 5%;
+}
+
+.perks-right ul {
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 15px;
+	list-style-type: none;
+	}
+
+.perks-right ul li {
+	background: url('../images/careers/ac-ken-blanchard-jobs-perks.png') no-repeat left top;
+	height: 54px;
+padding-left: 44px;
+padding-top: 3px;
+}
+
+.opportunities-title {
+	margin-top: 15px;
+	font-size:17px;
+}
+
+section.empower.delivered .icon {
+	text-align: right;
+	padding-right: 0;
+}
+
+section.social-resp {
+	background: url(../images/careers/ac-ken-blanchard-careers-and-jobs-bg.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+  padding: 50px 0 !important;
+}
+
+.right-line {
+	border-right: 1px solid #000;
+}
+
+.job.box {
+	padding: 20px;
+	margin-top: 25px;
+}
+
+.job.box .title {
+	font-size: 17px;
+	margin: 5px 0 0;
+	padding-top: 5px;
+	text-transform: uppercase;
+}
+
+.job.box .learn-more {
+	margin-top: 7px;
+}
+
+.inclusion p {
+	margin-top: 40px;
+}
+
+.inclusion p:first-child {
+	margin-top: 0;
+}
+
+.inclusion p a {
+	color: #333f48;
+	text-decoration: underline;
+}
+
+/*Team Ken*/
+
+#team-ken {
+    min-height: 391px;
+    background: url(../images/about-us-team-ken/ak-ken-blanchard-executive-leadership-bg.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 140px 0 0 0;
+    margin: 0 auto;
+}
+
+.margin-14 {
+	margin-top: 14px;
+}
+
+.ken-social {
+	text-align: center;
+	margin: 14px 0 30px;
+}
+
+.ken-social .social-icon {
+	padding: 0 9px;
+}
+
+.ken-photo {
+	max-width: 333px;
+	padding-right: 30px;
+}
+
+.ken-photo .btn-lg {
+	margin: 12px 0;
+	font-size: 16px;
+}
+
+.ken-right .blue {
+	font-family: "Montserrat";
+	font-size: 22px;
+	font-weight: 200;
+	margin-bottom: 14px;
+}
+
+.awards {
+	margin-top: 20px;
+}
+
+.award  {
+	margin-top: 20px;
+}
+
+section.videos {
+	background: url(../images/about-us-team-ken/videos-bg.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 50px 0;
+
+}
+
+.video-1, .video-2, .video-3, .video-4 {
+	text-align: center;
+	color: #fff;
+	font-family: "Montserrat";
+	font-weight: 200;
+	font-size: 17px;
+	max-width: 374px;
+	margin: 20px auto;
+	text-transform: uppercase;
+	height: 218px;
+}
+
+.watch-now {
+	margin-top: 18px;
+}
+
+section.videos .video-1 {
+	background: url(../images/about-us-team-ken/ak-ken-blanchard-executive-leadership-video.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 57px 45px;
+  
+}
+
+section.videos .video-2 {
+	background: url(../images/about-us-team-ken/ak-ken-blanchard-tedx-video.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 57px 45px;
+  
+}
+
+section.videos .video-3 {
+	background: url(../images/about-us-team-ken/ak-ken-blanchard-leadership-viewpoint-video.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 57px 45px;
+  
+}
+
+.ken-expertise {
+	background: url(../images/about-us-team-ken/ak-ken-blanchard-areas-of-expertise.jpg) no-repeat right center;
+	background-size: 50% auto;
+  /*-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  padding: 50px 0 !important;
+
+}
+
+.ken-expertise ul, ul.expertise {
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 15px;
+	list-style-type: none;
+	margin-top: 50px;
+	margin-left: 15%;
+	margin-right: auto;
+	text-align: left;
+	}
+
+.ken-expertise ul li, ul.expertise li {
+	background: url('../images/careers/ac-ken-blanchard-jobs-perks.png') no-repeat left top;
+	height: 54px;
+	padding-left: 44px;
+	padding-top: 3px;
+}
+
+.book-box {
+	background: url(../images/about-us-team-ken/books-line.png) no-repeat center top;
+	margin: 60px 0 100px;
+}
+
+.book-box .container {
+	text-align: left;
+	width: 768px;
+	padding: 0 50px 0px 50px;
+	border-left: 1px solid #333f48;
+	border-right: 1px solid #333f48;
+	border-bottom: 1px solid #333f48;
+}
+
+.book-box .container h4 {
+	font-size: 15px;
+	text-align: center;
+	margin-top: -8px;
+	margin-bottom: 50px;
+}
+
+.book-box .container .row [class*="col-"] {
+	margin-bottom: 30px;
+}
+.book-box .container [class*="col-"].icon {
+	padding-right: 0;
+}
+.book-box .container [class*="col-"].text{
+	padding-left: 10px;
+}
+
+.visit {
+	font-size: 26px;
+	line-height: 37px;
+}
+
+.visit a {
+	text-decoration: underline;
+	color: #333f48;
+}
+
+.visit a.btn {
+	text-decoration: none;
+}
+
+/*social responsibility*/
+#social-resp {
+    min-height: 391px;
+    background: url(../images/about-social-resp/social-responsibility-bg.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 120px 0 0 0;
+    margin: 0 auto;
+}
+
+.social-resp-photo-box {
+	max-width: 324px;
+	margin: 20px auto 0;
+	background-color: #333f48;
+	padding: 0;
+}
+
+section.bluebg.giving {
+	padding-top: 30px;
+}
+
+.green-text-box {
+	padding: 30px 20px;
+	color: #fff;
+}
+
+.green-text-box .title {
+	font-size: 17px;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.environment {
+	background: url(../images/about-social-resp/social-responsibility-environmental-protection.jpg) no-repeat right 150px;
+	background-size: 50% auto;
+  /*-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  padding: 50px 0 !important;
+
+}
+
+.environment p {
+	margin-top: 20px;
+}
+
+.environment p:first {
+	margin-top: 10px;
+}
+
+/*global locations*/
+#global-locations {
+    min-height: 391px;
+    background: url(../images/global-locations/global-header.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 140px 0 0 0;
+    margin: 0 auto;
+}
+
+section.aboutus-section1.global p {
+    margin-bottom: 0;
+}
+
+.panel-locations .panel-heading {
+	background-color: #7bafd4;
+	font-size: 22px;
+	font-weight: 200;
+	font-family: "Montserrat";
+	color: #fff;
+	padding: 10px 0;
+	text-transform: uppercase;
+	border-top: 0;
+	border-bottom: 1px solid transparent;
+	border-top-left-radius: 0;
+   border-top-right-radius: 0;
+
+}
+
+.panel-group {
+	margin-bottom: 50px;
+}
+
+.panel-group .panel+.panel {
+    margin-top: 0px !important;
+}
+.panel-group .panel {
+    margin-bottom: 0;
+    border-radius: 0 !important;
+}
+
+.panel-locations .panel-body {
+	background-color: #e5eff6;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+
+.arialbold17 {
+	font-size: 17px;
+	font-weight: bold;
+	margin: 10px 0 2px;
+	text-transform: uppercase;
+}
+
+.arialbold17:first-child {
+	margin-top: 0;
+}
+
+.location {
+	border-bottom: 1px solid #7bafd4;
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+	line-height: 26px !important;
+}
+
+.location:last-child {
+	border-bottom: none;
+}
+
+.glyphicon-triangle-right {
+	border-radius: 50%;
+	background-color: white;
+	color: #7bafd4;
+	padding: 4px 2px 4px 4px;
+}
+
+.glyphicon-triangle-bottom {
+	border-radius: 50%;
+	background-color: white;
+	color: #7bafd4;
+	padding: 4px 4px 4px 4px;
+}
+.learn-top {
+	margin-bottom: 20px !important;
+}
+/*australia alt1 */
+
+.areas-expertise {
+	margin-right: 25px;
+}
+
+ul.expertise {
+	margin-left: 20%;
+}
+
+
+/*australia alt2 */
+ul.expertise.two-column {
+	margin-left: 0;
+	padding-left: 15px;
+}
+
+/*russia*/
+
+#russia {
+    min-height: 391px;
+    background: url(../images/global-partner-russia/russia-header.jpg) no-repeat center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 120px 0 0 0;
+    margin: 0 auto;
+}
+
+/*end of standard css begin media queries*/
+
+@media (max-width: 1024px) {
+.expertise-box, .books-box, .australia-box, .book-box {
+		background: none;
+	}
+.expertise-box .container, .books-box .container, .australia-box .container, .book-box .container {
+	text-align: left;
+	width: auto;
+	border-top: 1px solid #333f48;
+}
+ .expertise-box .container h4, .books-box .container h4, .australia-box .container h3, .book-box .container h4 {
+	margin-top: 10px;
+	}
+	
+
+.australia-box .container {
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+.social-resp-photo-box {
+	margin: 20px 15px !important;
+}
+
+.ken-books .container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+ul.expertise {
+	margin-left: 0;
+}
+
+}
+@media (max-width: 920px) {
+	.generic-box {
+		background: none;
+	}
+	.generic-box .container {
+	text-align: left;
+	width: auto;
+	border-top: 1px solid #333f48;
+}
+.generic-box .container h4{
+	margin-top: 10px;
+	}
+
+.bluebg.nopadding.privacy  {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.privacy-section1 .row {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+}
+
+@media (max-width: 768px) {
+	.photo img {
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	/*.photo .btn {
+		width: 50%;
+	}*/
+
+	.photo {
+		margin-bottom: 50px;
+	}
+	.books-box img {
+		text-align: center;
+		margin: 0 auto 25px;
+	}
+
+	.books-box .container {
+		text-align: center;
+		margin: 0 auto 25px;
+	}
+	#contact-us {
+		padding-top: 150px !important;
+	}
+
+	.australia-events {
+	  margin-top: 50px;
+    width: 95%;
+}
+
+.book-detail-right .amazon-button {
+	margin-left: 15%;
+}
+
+
+.careers-section-1 .video {
+    margin: 20px auto;
+
+}
+
+.environment {
+	background: none;
+}
+.ken-expertise {
+	background: none;
+
+}
+
+
+.perks-right ul  {
+	margin-top: 50px;
+}
+
+.ken-photo .btn-lg:last-child {
+	margin-bottom: 30px;
+}
+
+ section.careers-section-1 .row-eq-height, section.australia-video .row-eq-height {
+	display: block !important;
+}
+ul.expertise {
+	margin-left: 25%;
+}
+
+.areas-expertise {
+	margin-right: 15px;
+	margin-left: 30px;
+}
+
+.alt-2-img img {
+	margin: 20px auto;
+}
+
+}
+
+@media (max-width: 668px) {
+	.australia-box .container [class*="col-"].icon {
+	clear: left;
+}
+
+.australia-events {
+    margin-left: auto;
+    width: auto;
+}
+
+.aus-photo img, .aus-photo .blue-bg-title {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.social-resp-photo-box {
+	margin: 20px auto !important;
+}
+
+.amazon {
+    margin-top: 10px;
+}
+
+
+
+.row.table .image-column {
+    margin: 0 auto;
+}
+
+
+
+.right-line {
+	border-right: 0;
+}
+
+.awards {
+	margin-top: 0;
+}
+
+.book-box .container {
+    padding: 0;
+}
+
+.buy {
+	margin-top: 20px !important;
+}
+
+.row-eq-height {
+	display: block !important;
+}
+
+.ken-expertise ul {
+    margin-left: 5%;
+    
+}
+
+.right-green {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+ul.expertise {
+	margin-left: 5%;
+}
+
+.areas-expertise {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+ul.expertise.two-column.second {
+	margin-top: 0;
+}
+
+.location .text-right {
+	margin-top: 15px;
+	text-align: center;
+}
+
+}
+/*extension to css to clear rows*/
+/*@media (min-width:1200px){
+    .auto-clear .col-lg-1:nth-child(12n+1){clear:left;}
+    .auto-clear .col-lg-2:nth-child(6n+1){clear:left;}
+    .auto-clear .col-lg-3:nth-child(4n+1){clear:left;}
+    .auto-clear .col-lg-4:nth-child(3n+1){clear:left;}
+    .auto-clear .col-lg-6:nth-child(odd){clear:left;}
+}*/
+@media (min-width:992px) and (max-width:1199px){
+    .auto-clear .col-md-1:nth-child(12n+1){clear:left;}
+    .auto-clear .col-md-2:nth-child(6n+1){clear:left;}
+    .auto-clear .col-md-3:nth-child(4n+1){clear:left;}
+    .auto-clear .col-md-4:nth-child(3n+1){clear:left;}
+    .auto-clear .col-md-6:nth-child(odd){clear:left;}
+}
+@media (min-width:768px) and (max-width:991px){
+    .auto-clear .col-sm-1:nth-child(12n+1){clear:left;}
+    .auto-clear .col-sm-2:nth-child(6n+1){clear:left;}
+    .auto-clear .col-sm-3:nth-child(4n+1){clear:left;}
+    .auto-clear .col-sm-4:nth-child(3n+1){clear:left;}
+    .auto-clear .col-sm-6:nth-child(odd){clear:left;}
+}
+@media (max-width:767px){
+    .auto-clear .col-xs-1:nth-child(12n+1){clear:left;}
+    .auto-clear .col-xs-2:nth-child(6n+1){clear:left;}
+    .auto-clear .col-xs-3:nth-child(4n+1){clear:left;}
+    .auto-clear .col-xs-4:nth-child(3n+1){clear:left;}
+    .auto-clear .col-xs-6:nth-child(odd){clear:left;}
+}
+
+@/*media (min-width:1200px){
+		.row.photo-leaders.auto-clear .col-lg-2:nth-child(6n+1){float: left;}
+
+    .row.photo-leaders.auto-clear .col-lg-2:nth-child(5n+1){clear:left;}
+  }*/
+
+
+

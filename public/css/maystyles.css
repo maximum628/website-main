@@ -1,0 +1,1337 @@
+.medium-container{
+	max-width:900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.container-extra{
+    max-width:700px;
+}
+.small-container{
+	max-width:530px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#partners.header h1,
+#government.header h1,
+#about-us.header h1,
+#about-news.header h1,
+#about-us-usd.header h1,
+#our-story.header h1{
+	line-height: 65px;
+}
+
+
+/***************************************************
+Partners
+***************************************************/
+#partners{
+	min-height: 391px;
+	background: url('../images/partners-img/pa-leadership-training-partners-bg.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 100px 0 0 0;
+	margin: 0 auto;
+}
+
+section.partners-section1{
+	background-color: #fff;
+	padding: 0 0 50px;
+	text-align: center;
+}
+
+section.partners-section1 p{
+	margin-bottom: 30px;
+}
+
+section.partners-section1 .icons{
+	margin-top: 30px;
+}
+
+section.partners-section1 .icons img{
+	margin-bottom: 15px;
+}
+
+section.partners-section1 .medium-container h5{	
+	font-size: 18px;
+}
+
+.partners-box > [class*=" col-"] {
+	margin: 0 20px 20px;
+}
+
+.partners-box > [class*=" col-"] {
+	max-width: 350px;
+	padding: 30px 20px;
+	text-align: center;
+}
+
+section.partners-section2 {
+    background: url(../images/pa-manager-training-partners-video-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: top center;
+    padding: 90px 0 100px;
+    text-align: center;
+}
+
+section.partners-section2 h1{
+	font-size:60px;
+	color:#333f47;
+	line-height: 70px;
+}
+
+section.partners-section2 .partnersvideo {
+    background: url(../images/partners-img/pa-manager-training-partners-video-bg2.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #fff;
+    padding: 120px 40px;;
+    text-align: center;
+	width:100%;
+    display:inline-block;
+}
+
+section.partners-section3{
+	background-color: #e5eff6;
+	padding: 50px 0 100px;
+}
+
+section.partners-section3 p {
+	padding: 0 0 15px;
+}
+
+section.partners-section3.nopadding .left {
+    background: url(../images/commited-to-your-success.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+    margin: 0 auto;
+    min-height: 447px;
+}
+
+section.partners-section3.nopadding .right {
+    max-width: 600px;
+}
+
+section.partners-section3.nopadding .right .list-item{
+		margin-top:10px;
+}
+
+section.partners-section3.nopadding .right .list-item li{
+	margin-bottom:40px;
+	font-weight: 400;
+}
+
+section.partners-section3.nopadding .right .list-item li:last-child{
+	margin-bottom: 0;
+}
+
+section.partners-section4 {
+    background: url(../images/partners-img/pa-manager-training-partnership-testimonials-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: top center;
+    padding: 55px 0 70px;
+    text-align: center;
+}
+
+section.partners-section4 .product-client-slides {
+	margin-top: 10px;
+}
+
+section.partners-section4 .product-client-slides .col-lg-9{
+	padding: 60px;
+}
+
+section.partners-section5 .checkbox-inline{
+	margin-left: 30px;
+}
+
+section.partners-section5 {
+	margin-top: 52px;
+	margin-bottom: 150px;
+}
+
+
+
+/***************************************************
+Government
+***************************************************/
+
+#government{
+	min-height: 391px;
+	background: url('../images/government-img/gov-government-leadership-training-bg.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 100px 0 0 0;
+	margin: 0 auto;
+}
+
+section.government-section1{
+	background-color: #fff;
+	padding: 0 0 70px;
+	text-align: center;
+}
+
+section.government-section1 p{
+	margin-bottom:30px;
+}
+
+section.government-section1 .icons{
+	margin-top: 30px;
+}
+
+section.government-section1 .icons img{
+	margin-bottom: 28px;
+}
+
+section.government-section1 .icons h4{
+	margin-bottom: 13px;
+}
+
+section.government-section2{
+	background-color: #e5eff6;
+	padding: 60px 0 80px;
+}
+
+section.government-section2 p{
+	padding:40px 0;
+}
+
+section.government-section2 img{
+	width: 100%;
+	height: auto;
+}
+
+.government-box:first-child{
+	margin-top: 30px;
+}
+
+.government-box .headline {
+    text-align: center;
+    background-color:#7bafd4;
+    display: -webkit-inline-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+	height:75px;
+	width:100%;
+}
+
+.government-box h3 {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color:#fff;
+    line-height: 25px;
+    margin:0;
+}
+
+section.government-section2 .government-box p{
+	padding: 15px 20px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.government-box .btn{
+	position: absolute;
+	bottom: 25px;
+	left: 50%;
+	margin-left: -50px;
+}
+
+.government-box > [class*=" col-"] {
+	margin: 0 30px 30px;
+}
+
+.government-box > [class*=" col-"] {
+	max-width: 330px;
+	padding: 0 0 60px;
+	text-align: center;
+	position:relative;
+}
+
+section.government-section3{
+	text-align: center;
+	padding:40px 0 120px;
+}
+
+section.government-section3 .box {
+	padding: 30px 0 30px 40px;
+	margin-top: 20px;
+}
+
+section.government-section3 .box > .row{
+	width:100%;
+	display: -webkit-inline-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+}
+
+section.government-section3 p:last-child{
+	margin-bottom:0;
+}
+
+.contract-box{
+	text-align: left;
+	border-right: 1px solid #000;
+}
+
+.contract-box h4{
+	color:#7bafd4;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.contract-box p{
+	margin-bottom: 20px;
+}
+
+.government-section3 .box{
+	position: relative;
+}
+
+.government-section3 .box .head-title{
+	position: absolute;
+	width: 100%;
+	left:0;
+	top:-45px;
+	z-index: 1;
+}
+
+.head-title h3{
+	background-color: #fff;
+	display: inline-block;
+	padding: 5px 10px;
+	position: relative;
+	z-index: 999;
+	font-weight: bold;
+	font-family: 'Arial',sans-serif;
+	font-size:22px;
+	color:#7bafd4;
+	text-transform: uppercase;
+}
+
+section.government-section4 {
+    background: url(../images/government-img/gov-government-leadership-training-bg2.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: top center;
+    padding: 70px 0 55px;
+    text-align: center;
+}
+
+section.government-section4 .product-client-slides{
+	margin-top:30px;
+}
+
+section.government-section5{
+    padding:90px 0 120px;
+}
+
+
+/***************************************************
+About Us
+***************************************************/
+#about-us{
+	min-height: 391px;
+	background: url('../images/about-img/au-leadership-development-company-hero-bg.jpg') no-repeat center top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 100px 0 0 0;
+	margin: 0 auto;
+}
+
+section.aboutus-section1{
+	background-color: #fff;
+	padding: 0 0 50px;
+	text-align: center;
+}
+
+section.aboutus-section1 p{
+	margin-bottom: 30px;
+}
+
+section.aboutus-section2{
+	background-color: #e5eff6;
+	padding: 50px 0 0;
+}
+
+section.aboutus-section2.nopadding .left {
+    background: url(../images/about-img/au-proven-results-leadership-training-company.jpg) no-repeat top center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+    margin: 0 auto;
+    min-height: 737px;
+}
+
+section.aboutus-section2.nopadding .right {
+    max-width: 600px;
+}
+
+.list-big-icon h6{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size:15px;
+}
+
+.list-big-icon li{
+	color:#333f48;
+	font-size:15px;
+	list-style-type: none;
+	position: relative;
+	padding-left: 90px;
+	margin-bottom: 40px;
+}
+
+.list-big-icon li:before{
+	content:"";
+	position: absolute;
+	left:0;
+	top:-15px;
+}
+
+
+.list-big-icon li.certificate:before{
+	width: 56px;
+	height: 73px;
+	background-image: url(../images/icon-certificate.png);
+}
+
+.list-big-icon li.chart:before{
+	width: 66px;
+	height: 63px;
+	background-image: url(../images/icon-chart.png);
+}
+
+.list-big-icon li.people:before{
+	width: 65px;
+	height: 62px;
+	background-image: url(../images/icon-people.png);
+}
+
+.list-big-icon li.book:before{
+	width: 64px;
+	height: 41px;
+	background-image: url(../images/icon-book.png);
+}
+
+section.aboutus-section2.nopadding .right .text-left {
+    padding-left: 130px;
+}
+
+.aboutus-section3{
+	text-align: center;
+	padding:50px 0 70px;
+}
+
+.aboutus-section3 .icons{
+	margin-top: 50px;
+}
+
+.aboutus-section3 .icon {
+    min-height: 110px;
+}
+
+.aboutus-section3 .icon img{
+	max-width: 100%!important;
+	height:auto;
+	margin:0 auto 10px;
+}
+
+.logo-slider .slick-prev, {
+	left:-30px;
+	width:30px;
+	height:40px;
+}
+
+.logo-slider .slick-next{
+	right:-30px;
+	width:30px;
+	height:40px;
+}
+
+.logo-slider .slick-prev::before, .timeline-nav .slick-prev::before{
+	font: normal normal normal 40px/1 FontAwesome;
+	content: "\f053";
+	color:#e5eff6;
+	opacity:1;
+}
+
+.logo-slider .slick-next::before, .timeline-nav .slick-next::before {
+	font: normal normal normal 40px/1 FontAwesome;
+	content: "\f054";
+	color:#e5eff6;
+	opacity:1;
+}
+
+section.aboutus-section4{
+	background-color: #e5eff6;
+}
+
+section.aboutus-section4.nopadding .left {
+    background: url(../images/about-img/au-blanchard-leadership-development-company-history-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 0;
+    margin: 0 auto;
+    min-height: 456px;
+}
+
+section.aboutus-section4.nopadding .right {
+    max-width: 600px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+section.aboutus-section4.nopadding .right p{
+	margin: 40px 0;
+}
+
+section.aboutus-section5{
+	padding: 50px 0;
+}
+
+section.aboutus-section5 .list-big-icon{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+section.aboutus-section5 .list-big-icon li{
+	display: inline-block;
+	width: 46%;
+	margin:0 1.5% 40px;
+	vertical-align: top;
+}
+
+.list-big-icon li.hand:before{
+	width: 63px;
+	height: 56px;
+	background-image: url(../images/about-img/icon-hand.png);
+}
+
+.list-big-icon li.target:before{
+	width: 67px;
+	height: 66px;
+	background-image: url(../images/about-img/icon-target.png);
+}
+
+.list-big-icon li.kenship:before{
+	width: 68px;
+	height: 68px;
+	background-image: url(../images/about-img/icon-kenship.png);
+}
+
+.list-big-icon li.d4:before{
+	width: 80px;
+	height: 30px;
+	background-image: url(../images/about-img/icon-d4.png);
+	top: 10px;
+	left:-5px;
+}
+
+.list-big-icon li.dialogue:before{
+	width: 71px;
+	height: 46px;
+	background-image: url(../images/about-img/icon-dialogue.png);
+}
+
+.list-big-icon li.ownership:before{
+	width: 48px;
+	height: 48px;
+	background-image: url(../images/about-img/icon-ownership.png);
+}
+
+section.aboutus-section6{
+	padding: 0;
+    background-color: #e5eff6;
+}
+
+
+section.aboutus-section6.nopadding .right {
+    background: url(../images/about-img/au-leadership-development-company-team.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0 auto;
+    min-height: 456px;
+    float:right;
+}
+
+section.aboutus-section6.nopadding .left {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    max-width: 600px;
+    float:right;
+}
+
+section.aboutus-section6.nopadding .left p{
+	margin: 40px 0;
+}
+
+section.aboutus-section7{
+	padding:80px 0 120px;
+	text-align: center;
+	background: url(../images/about-img/au-management-training-company-locations-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+}
+
+section.aboutus-section7 p{
+	padding:30px 0;
+}
+
+
+/***************************************************
+About Us - Our Story
+***************************************************/
+#our-story{
+	min-height: 391px;
+	background: url('../images/about-img/os-ken-blanchard-story-hero-bg.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 120px 0 0 0;
+	margin: 0 auto;
+}
+
+section.ourstory-section1{
+	background-color: #fff;
+	padding: 0 0 100px;
+	text-align: center;
+}
+
+section.ourstory-section1 p{
+	margin-bottom: 30px;
+}
+
+#timeline-slider img{
+	width:100%;
+	height:auto;
+	margin:0 auto;
+}
+
+.slick-current .timeline-wrap {
+	margin: 0 10px;
+}
+
+#timeline-slider .slick-current .box-img{
+	padding: 0 0 5px;
+}
+
+#timeline-slider .slick-current .box-img img{
+	width: 100%;
+}
+
+.timeline-wrap {
+	max-width: 95%;
+	margin: 0 auto!important;
+	border: 3px solid #71B0D6;
+	/*height:600px;*/
+}
+#timeline-slider .timeline-wrap {
+	height:600px;
+}
+.timeline-nav{
+	position: relative;
+	margin:20px 0 30px;
+}
+
+.timeline-nav .slick-list{
+	min-height: 50px;
+	position: relative;
+	z-index: 9;
+	text-align: left;
+}
+
+.timeline-nav .slick-slide{
+	outline: none!important;
+}
+
+/*.timeline-nav:before{
+	content:"";
+	position: absolute;
+    z-index: 1;
+    left: 20px;
+    top: 34px;
+    height: 1px;
+    width: 95%;
+    background-color: #7bafd4;
+    -webkit-transform-origin: left center;
+    -moz-transform-origin: left center;
+    -ms-transform-origin: left center;
+    -o-transform-origin: left center;
+    transform-origin: left center;
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+}*/
+
+.timeline-nav a {
+	position: relative;
+    top: 0;
+    z-index: 99;
+    text-align: center;
+    padding-bottom: 15px;
+    color: #7bafd3; /* text color */
+	font-family: "Montserrat";
+	font-size: 14px;
+	font-weight: 300;
+	text-decoration: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.timeline-nav a::after {
+    content: '';
+    position: absolute;
+    left: 26%;
+    right: auto;
+    bottom: -5px;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border: 2px solid #85b5d7;
+    background-color: #fff;
+    z-index: 99;
+}
+
+.timeline-nav .slick-current a{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.timeline-nav .slick-current a::after{
+	width:20px;
+	height: 20px;
+	background-color: #7bafd4;
+}
+
+#timeline-slider .slick-prev{
+	left:-30px;
+	width:30px;
+	height:40px;
+}
+
+#timeline-slider .slick-next{
+	right:-30px;
+	width:30px;
+	height:40px;
+}
+
+#timeline-slider .slick-prev::before{
+	font: normal normal normal 40px/1 FontAwesome;
+	content: "\f053";
+	color:#e5eff6;
+	opacity:1;
+}
+
+#timeline-slider .slick-next::before{
+	font: normal normal normal 40px/1 FontAwesome;
+	content: "\f054";
+	color:#e5eff6;
+	opacity:1;
+}
+/*#timeline-slider .timeline-for .slick-slide.slick-active{
+    width:360px !important;
+    padding-top:20px;
+}
+#timeline-slider .timeline-for .slick-slide.slick-active.slick-center{
+    width:420px !important;
+    padding-top:0;
+   }*/
+#timeline-slider .timeline-for .slick-slide.slick-active:not(.slick-center)  {
+-webkit-transform:scale(0.8);
+-moz-transform:scale(0.8);
+-ms-transform:scale(0.8);
+transform:scale(0.8);
+} 
+
+
+/***************************************************
+About News
+***************************************************/
+
+#about-news.header {
+	min-height: 390px;
+	background: url('../images/about-img/an-management-training-company-news-bg.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 120px 0 0 0;
+	margin: 0 auto;
+}
+
+section.article-content{
+	background-color: #fff;
+	padding: 0 0 90px;
+}
+
+section.article-content.nopadding .left {
+    background: url(../images/about-img/an-leadership-development-training-news-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: left top;
+    padding: 0;
+    margin: 0 auto;
+    min-height: 748px;
+}
+
+section.article-content.nopadding .right {
+    max-width: 600px;
+}
+
+section.article-content .article-box{
+	padding:15px 25px;
+	margin-bottom: 20px;
+}
+
+section.article-content .article-box .news{
+	color:#333f48;
+	font-size:18px;
+	text-decoration: underline;
+	margin:0;
+}
+
+section.article-content .article-box .title{
+	color:#333f48;
+	font-size:20px;
+	font-weight: bold;
+	text-transform: none;
+	margin:0;
+	line-height: 25px;
+}
+
+section.article-content .article-box .date{
+	color:#333f48;
+	font-size:12px;
+	text-transform: uppercase;
+	margin-bottom:15px;
+}
+
+section.article-content .article-box .content{
+	color:#333f48;
+	font-size:15px;
+	text-transform: none;
+	margin-bottom:15px;
+}
+
+section.article-content .article-box .content a{
+	text-transform: uppercase;
+	color:#97d700;
+	text-decoration: underline;
+}
+
+section.media-requests {
+	background: url('../images/about-img/an-management-training-media-requests-bg.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 80px 0 120px;
+	text-align: center;
+}
+
+section.media-requests h3{
+	font-size:28px;
+	color:#7bafd4;
+	font-weight: bold;
+	text-transform: none;
+	line-height: 20px;
+}
+
+section.media-requests h3.light{
+	font-weight: 300;
+}
+
+section.media-requests a{
+	color:#7bafd4;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+
+	-ms-word-break: break-all;
+	/* This is the dangerous one in WebKit, as it breaks things wherever */
+	word-break: break-all;
+	/* Instead use this non-standard one: */
+	word-break: break-word;
+
+	/* Adds a hyphen where the word breaks, if supported (No Blink) */
+	-ms-hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto; 
+}
+
+section.press-releases {
+	background-color: #e5eff6;
+	padding: 40px 0 90px;
+}
+
+
+section.press-releases .box-content{
+	margin-top: 20px;
+}
+
+section.press-releases .box {
+	padding: 25px 30px;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+}
+
+section.press-releases .box > .row{
+	width:100%;
+	display: flex;
+	align-items: center;     /* Align the flex-items vertically */
+	justify-content: center; /* Optional, to align inner flex-items horizontally within the column  */
+}
+
+section.press-releases .box .date{
+	font-size:12px;
+	color:#333f48;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+section.press-releases .box .title{
+	color:#333f48;
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: none;
+	margin-bottom: 0;
+}
+
+section.press-releases .box .lbox{
+	border-right:1px solid #000;
+}
+
+section.press-releases .box .rbox{
+	text-align: center;
+}
+
+
+/***************************************************
+About Us USD
+***************************************************/
+
+#about-us-usd{
+	min-height: 391px;
+	background: url('../images/about-img/usd-masters-degree-in-leadership-hero-bg.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 140px 0 0 0;
+	margin: 0 auto;
+}
+
+section.about-us-usd{
+	background: url('../images/about-img/usd-leadership-degree-programs-bg.jpg') no-repeat top center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 0 0 80px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.about-us-usd p{
+	margin-bottom: 40px;
+}
+
+.about-us-usd p:first-child{
+	margin-top: 35px;
+}
+
+.about-us-usd .list-item{
+	text-align: left;
+	padding-left: 30px;
+	margin-top: 20px;
+}
+
+.list-item li{
+	color:#333f48;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 20px;
+	position: relative;
+	padding-left: 50px;
+	margin-bottom: 30px;
+	list-style-type: none;
+}
+
+.list-item li:before{
+	content:"";
+	position: absolute;
+	top:-3px;
+	left:0;
+	width: 33px;
+	height: 28px;
+	background-image: url(../images/sl2-sl2-leadership-training-features.png);
+}
+
+.graduate-testimonial {
+	background-color: #fff;
+	color: #fff;
+	padding: 80px 40px 60px 30px;
+	text-align: center;
+}
+
+
+/* Our Story 
+-------------------------------*/
+
+.timeline-for  ul {
+	text-align: left;
+	padding: 15px 25px 15px 40px;
+}
+.timeline-for li {
+	line-height: 1.3;
+	margin: 0 0 15px;
+}
+
+.timeline-for li:last-child {
+	margin: 0;
+}
+
+
+@media only screen and (max-width:1200px){
+	section.partners-section2 h1{
+		font-size:50px;
+	}
+
+	.government-box > [class*=" col-"],
+	.partners-box > [class*=" col-"]{
+		margin:0 20px 20px;
+	}
+
+	section.government-section5{
+		margin-bottom: 50px;
+	}
+
+	.government-box > [class*=" col-"]{
+		max-width:350px;
+	}
+
+	.container-fluid.header{
+		padding:120px 0!important;
+	}
+
+	section.partners-section2 .dl-button{
+		margin-bottom: 0!important;
+	}
+
+	section.media-requests h3{
+		font-size:25px;
+	}
+
+	#partners.header h1, #government.header h1, #about-us.header h1, #about-news.header h1, #about-us-usd.header h1, #our-story.header h1{
+		font-size:45px!important;
+	}
+}
+
+
+@media only screen and (max-width:1024px){
+	.header#about-us,
+	.header#partners,
+	.header#about-news,
+	.header#government {
+		padding-top: 120px !important;
+	}
+
+	.header#about-us-usd{
+		padding-top: 130px!important;
+	}
+
+	section.partners-section2,
+	section.partners-section3,
+	section.partners-section4,
+	section.aboutus-section2,
+	section.aboutus-section3,
+	section.aboutus-section5,
+	section.aboutus-section7{
+		padding:50px 0!important;
+	}
+
+	section.partners-section4 .product-client-slides .col-lg-9{
+		padding:30px 20px;
+	}
+
+	section.partners-section5{
+		margin-top:30px;
+		margin-bottom:50px;
+	}
+
+	section.partners-section3.nopadding .right .list-item li{
+		margin-bottom:35px;
+	}
+
+	.graduate-testimonial{
+		padding:40px;
+	}
+
+	#partners.header h1, #government.header h1, #about-us.header h1, #about-news.header h1, #about-us-usd.header h1,#our-story.header h1, section.partners-section2 h1{
+		line-height: 60px!important;
+	}
+
+	section.media-requests h3,
+	.subtitle{
+		font-size:22px;
+	}
+
+	section.ourstory-section1{
+		padding-bottom: 40px;
+	}
+	
+	.logo-slider .slick-prev,
+	#timeline-slider .slick-prev{
+		left:-10px;
+	}
+	
+	.logo-slider .slick-next,
+	#timeline-slider .slick-next{
+		right:-10px;
+	}
+	
+}
+
+@media only screen and (max-width:992px){
+	section.aboutus-section5 .list-big-icon li{
+		width:100%!important;
+		margin:0 0 20px;
+	}
+
+	.medium-container,
+	.small-container,
+	section.partners-section3.nopadding .right,
+	section.article-content.nopadding .right,
+	section.aboutus-section2.nopadding .right,
+	section.aboutus-section4.nopadding .right,
+	section.aboutus-section6.nopadding .left{
+		max-width: 95%;
+		margin:0 auto;
+	}
+
+	.partners-section1 .row-eq-height,
+	.government-section2 .row-eq-height,
+	section.government-section3 .box > .row,
+	section.press-releases .box > .row{
+		display:initial!important;
+		margin: 0!important;
+	}
+
+	.partners-box > [class*=" col-"],
+	.government-box > [class*=" col-"]{
+		max-width: 100%!important;
+		margin: 0 0 20px!important;
+	}
+
+	section.partners-section2,
+	section.partners-section3,
+	section.partners-section4,
+	section.government-section2,
+	section.article-content,
+	section.press-releases{
+		padding:40px 0!important;
+	}
+
+	section.partners-section3 p{
+		padding:20px 0;
+	}
+
+	section.partners-section3.nopadding .right .list-item li{
+		margin-bottom:30px;
+	}
+
+	section.partners-section1,
+	section.government-section3{
+		padding-bottom: 20px!important;
+	}
+
+	section.partners-section2 h1,
+	section.government-section2 img,
+	section.government-section5{
+		margin-bottom: 15px!important;
+	}
+
+	section.government-section3 .box{
+		padding:20px;
+	}
+
+	section.article-content{
+		margin-top: 20px;
+	}
+
+	section.aboutus-section5 .list-big-icon,
+	ul.list-big-icon,
+	.about-us-usd .list-item,
+	section.partners-section3.nopadding .right .list-item{
+		padding-left: 15px;
+	}
+
+	.contract-box,
+	section.press-releases .box .lbox{
+		border-right: 0;
+	}
+
+	section.aboutus-section6,
+	section.aboutus-section4{
+		text-align: center;
+		padding:20px 0 30px;
+	}
+
+	section.partners-section1 h5,
+	section.government-section1 p{
+		margin-bottom:20px!important;
+	}
+
+	section.partners-section1 .partners-box p:last-child,
+	section.aboutus-section1 p:last-child{
+		margin-bottom:0!important;
+	}
+
+	section.aboutus-section6.nopadding .left,
+	section.aboutus-section4.nopadding .right{
+		padding:0;
+	}
+
+	section.aboutus-section6.nopadding .left{
+		float:none;
+	}
+
+	section.media-requests h3{
+		font-size:20px;
+	}
+
+	.header#government{
+		padding-top: 120px!important;
+	}
+
+	section.aboutus-section2.nopadding .right .text-left{
+		padding-left: 105px;
+	}
+
+	.timeline-nav .slick-list{
+		text-align: center;
+	}
+
+	.timeline-nav:before{
+		width: 100%;
+		left:10px;
+	}
+	
+	section.press-releases .box .rbox{
+		margin-top:20px;
+	}
+
+	#timeline-slider .timeline-wrap{
+		height: auto;
+	}
+
+	#timeline-slider .timeline-for{
+		max-width:380px;
+		margin:0 auto;
+	}
+
+	#timeline-slider .slick-prev{
+		left:-30px;
+	}
+	
+	#timeline-slider .slick-next{
+		right:-30px;
+	}
+}
+
+
+@media only screen and (max-width:768px){
+	section.partners-section3.nopadding .right .list-item li{
+		margin-bottom:20px;
+	}
+
+	#partners.header h1, #government.header h1, #about-us.header h1, #about-news.header h1, #about-us-usd.header h1, #our-story.header h1{
+		line-height: 50px!important;
+		padding:11px 15px!important;
+		font-size:38px!important;
+	}
+
+	section.media-requests h3{
+		font-size:18px;
+	}
+
+	.header#about-us, .header#about-us-usd, .header#partners, .header#about-news, .header#our-story{
+		padding-top: 140px!important;
+	}
+	
+	.logo-slider .slick-prev,
+	#timeline-slider .slick-prev{
+		left:15px;
+	}
+	
+	.logo-slider .slick-next,
+	#timeline-slider .slick-next{
+		right:15px;
+	}
+	
+}
+
+@media only screen and (max-width: 568px){
+	section.partners-section2 {
+		padding-top: 0 !important;
+	}
+	section.partners-section1, section.government-section3 {
+		padding-bottom: 0 !important;
+	}
+	section.partners-section2 h2 br {
+		display: none;
+	}
+	section.partners-section2 h2  {
+		padding-bottom: 25px;
+	}
+	h2 {
+		font-size: 26px;
+	}
+	#timeline-slider .slick-prev {
+		left: 0;
+	}
+	#timeline-slider .slick-next {
+		right: 0;
+	}
+}
+
+@media only screen and (max-width:768px){
+	#timeline-slider  button {
+		display: none !important;
+	}
+}
